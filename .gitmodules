@@ -1,0 +1,6 @@
+[submodule "Dragonheart/player_resources"]
+	path = Dragonheart/player_resources
+	url = git@github.com:Syndicist/player-resources.git
+[submodule "Dragonheart/PlayerResources"]
+	path = Dragonheart/PlayerResources
+	url = git@github.com:Syndicist/player-resources.git
