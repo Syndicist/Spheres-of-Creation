@@ -4,76 +4,39 @@ tags: [questline]
 # Questline: Emberfall
 Overview
 
-Darcey begins as a quiet frontier town—but subtle signs point to something far more dangerous than random draconic raids. What first appears to be scattered attacks is actually a coordinated effort led by an exiled draconic intelligence gathering strength along the coast.
+Darcey begins as a quiet frontier town—but subtle signs point to something far more dangerous than random draconic raids.
 
-This questline is designed for levels 1–6 (Pathfinder 1e) and can expand beyond.
+The exiled Wyvaran knight named Heorshoc seeks to reclaim his honor by finding items of draconic myth - the Lodestones. It is believed several Lodestones exist under the surface of Drakeguard, and he has dispatched his agents to confirm a suspicion that one exists close to Darcey.
 
-ACT I: Smoke on the Water (Levels 1–2)
-Hook
+# ACT I: Smoke on the Water (Levels 1–2)
+The players have two immediate threads to follow, both leading to the same location:
+1. Livestock are disappearing near Blackwater Bend.
+2. A militia patrol has gone missing while patroling their regular route.
+They can find out about either of these through town gossip, or engaging with NPCs they have a connection with. Takka Reedfoot and Maris Thorne lead the players towards investigating the patrol while Silae Windbrook and Varkesh lead the players to look directly into the disappearing livestock.
 
-The players arrive in Darcey just as tension rises:
+## Quest 1: On Patrol
+If the party investigates the patrol route, it takes them a little longer to end up at Blackwater Bend. On the way there, they encounter disturbed wildlife.
 
-Livestock are disappearing near Blackwater Bend
-Strange wreckage washes ashore along the Northern Wreckline
-A militia patrol has gone missing
+### Encounter: 2 Badgers and one injured wolf (CR 2)
 
-Maris Thorne hires the party to investigate before panic spreads.
+This earns them more experience however they deal with it, but the climax encounter is a bit more dangerous as more of the patrol is injured fighting the drake. After the wildlife encounter is dealt with, they continue on the path towards Blackwater Bend.
 
-Quest 1: The Missing Patrol
+Investigating the livestock allows the players to catch onto the drake's trail much more quickly. Once they arrive at Blackwater Bend, they are ambushed by mutated giant frogs (Killer Frogs) and more obvious signs of the militia's presence - semi-destroyed weapons and scraps of leather armor that look singed - but not by fire.
 
-The party tracks Takka Reedfoot’s missing militia group toward Blackwater Bend.
+### Encounter: 2 branded Killer Frogs (CR 2)
 
-Encounters:
+After dealing with the frogs, the players follow signs of conflict. Before long, they outright hear active battle as 1-3 patrolmen try to defend their injured against a black river drake.
 
-Disturbed wildlife (CR appropriate animals with erratic behavior)
-A river ambush by mutated giant frogs or a drake-touched creature
-Discovery of acid-scorched bodies and drag marks into the water
+### Encounter: An injured River Drake (CR 3) 
 
-Climax:
-A Lesser Blackscale Drake (young or weakened) emerges from the river.
+With its dying breath, the drake hisses, "The Lodestone... is... here..."
 
-Twist:
-The creature bears a branded rune—not natural, but carved.
+With that, it falls. Investigating the body will reveal it is holding something - crystals that reflect the strange crystalline growths that can be found on Ashfall Ridge (DC 5 knowledge local).
 
-Quest 2: Wreckage Secrets
+# Quest 2: The Old Watchtower
+Assuming the party goes back to the town to report on the happenings, they will be met with a very enthusiastic Takka Reedfoot, who will offer to have the party over for supper as recompense for their deeds, allowing them time to interact with some townspeople and wind down after the intense encounter.
 
-Kelven Dorr asks the party to investigate newly arrived wreckage.
-
-Findings:
-
-Ship fragments fused by intense heat
-Strange metal devices (proto-draconic signaling tools)
-
-A surviving, delirious sailor speaking of:
-
-“They’re not raiding… they’re searching.”
-
-Encounter:
-
-Scavengers (bandits, kobolds, or reefclaws)
-Optional: a hidden draconic scout observing the party
-ACT II: Shadows Gather (Levels 2–4)
-Hook
-
-Silae Windbrook reports increasing activity inland, while Varkesh grows nervous—he recognizes the rune markings.
-
-Quest 3: The Ashfall Ridge
-
-The party investigates the crystalline growths.
-
-Encounters:
-
-Fire-touched elementals or crystalline beasts
-Environmental hazards (heated ground, unstable shards)
-
-Discovery:
-
-The crystals act as beacons or anchors
-Evidence of a ritual site
-A map marking Darcey and other small settlements
-Quest 4: The Old Watchtower
-
-The tower is now occupied.
+The next day, Maris Thorne personally asks the players to investigate The Old Watchtower - which is reported to now be occupied.
 
 Enemies:
 
@@ -96,6 +59,49 @@ Revelation
 Varkesh confirms the truth:
 
 A rogue draconic faction is mapping weak coastal settlements—not for raids, but for future conquest or resource harvesting.
+
+## Quest 3: The Ashfall Ridge
+If the party doesn't think to check, showing any notable NPC in town the crystals will mention it, with Varkesh in particular urging the PCs to go check it out. If the players found the Lodefinder and successfully activate it, it will produce golden magical metals that flow in the direction of Ashfall Ridge.
+
+When they arrive, they will see that the area appears way more active than it's ever been, with fire elementals roaming the Ridge, scorching the ground they stand on, and the entrance to a cavern below that was never there before. This leads to the Lodestone Vault, the defenses for which the Drake triggered when it dug into it.
+
+### Encounter: 2 Fire Elementals, Small (CR2)
+Environmental hazards: 
+Smoldering ground dots the Ridge, dealing 1d4 Fire damage to any creature that ends their turn on them, reflex save for half (DC 8).
+Unstable shareds cackle with energy, distracting those that stand within their influence. Nearby creatures take -2 on attack rolls, perception checks, and concentration checks.
+
+Entering the vault requires an DC 13 acrobatics check by each character to squeeze through - failure merely means it takes them longer to enter. A DC 20 strength check may also be used to make the opening wider, but would be very loud and the elementals would surely notice if the PCs opted to sneak around - anything inside the vault would be similarly alerted and be ready for battle.
+
+Once entered, the PCs will be in what's known as the Outer Vault. This rectangular chamber is ominous, cackling with similar magical energies as on the surface. When exploring the center of the vault, the vault's inner security mechanics come online: small ancient stone constructs.
+
+### Encounter: 1 Small Animated Object and 2 Tiny Animated Objects (skinned as constructs) (CR 3)
+Tactics: The constructs attempt to bull rush and push the players against the near doorway, which is caved in; a futile part of their programming to urge those who were lead astray out. When any construct is reduced to half, it will attempt to attack lethally, identifying the trespassers as true threats. They first try to cast spells, which fail, then resorting to slams.
+
+Treasure:
+A +1 weapon
+2 potions of resist energy (fire)
+Ancient tools with engraved gems worth 100 gp
+A partially intact arcane focus crystal (functions as a spell component pouch with negligible weight.)
+
+There are two doorways in this area, one being entirely caved in. Old Draconic runes cover the walls and floors of the place, roughly translating: "Containment. Stabilization. Warning." with a DC 11 linguistics check to someone who can read Draconic.
+
+The only traversable door leads to a narrow corridor going deeper, eventually leading to a circular chamber: The Inner Vault. This area is alive with elemental energy and has attracted an even larger fire elemental.
+
+### Encounter: Fire Elemental, Medium (CR3)
+
+The elemental energies in this cavern remain alive, and if the PCs do not deal with it, a new Fire Elemental will have found its way in again the next day.
+
+The Lodestone appears floating and spinning chaotically, the air in this place drawing in towards it. It appears dangerous, but doesn't pose any actual threat. Simply touching it will cause it to still, the cackling energies all halting at once.
+
+At this point, a bright light will overtake the vault, blinding those inside. Each PC will be rendered temporarily unconscious at this point as each of them dreams about a voice calling out to them.
+
+When they awake, the Lodestone will be gone, while each PC now finds a strange gem, metal nugget, or rock affixed to some part of their body.
+
+Upon closer inspection, the Players will also find a large golem with its core exposed and dead, holding a large stone sword in one hand while its other is shaped like a cannon, implying how dangerous coming in here might have been.
+
+Treasure:
+500 gp worth of precious metals and gems that can be salvaged from the golem with an hour of work.
+another +1 weapon
 
 ACT III: Fire from the North (Levels 4–6)
 Hook

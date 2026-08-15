@@ -18,8 +18,16 @@
     "bodyFont": "\"Spectral\", serif",
     "fontSize": 100,
     "sidebarWidth": 300,
+    "isSidebarVisible": true,
     "isTocVisible": false,
     "areInfoboxTagsVisible": true,
-    "areFooterTagsVisible": false
+    "areFooterTagsVisible": false,
+    "areLinkPreviewsEnabled": true,
+    "areMapPreviewsEnabled": true,
+    "showImages": true,
+    "showExternalFiles": false,
+    "imageImportLocation": "folder",
+    "imageImportDir": "images",
+    "promptForImageName": false
   }
 }

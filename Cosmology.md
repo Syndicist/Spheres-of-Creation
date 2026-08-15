@@ -18,7 +18,7 @@ However... What were to happen should the Great Wyrms grow tired and weary, and 
 ___
 
 # The Great Wyrms
-| Iomedae | Light of the Sword |
+| Marika | The Golden |
 | ----------- | ----------- |
 | Alignment | LG |
 | Areas of Concern | Honor, justice, rulership, valor |
@@ -32,7 +32,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar,  Additional Domains |
 | Divine Specie | 22 (8 divine boons, 5 domains, 9 ranks) |
 
-| Torag | The Stone Father |
+| Vulcan | The Shaper of Stone |
 | ----------- | ----------- |
 | Alignment | LG |
 | Areas of Concern | Forges, protection, strategy |
@@ -46,7 +46,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 19 (6 divine boons, 5 domains, 8 ranks) |
 
-| Erastil | The Hunter |
+| Asher and Naa | Patrons of The Hunt |
 | ----------- | ----------- |
 | Alignment | NG |
 | Areas of Concern | Family, farming, hunting, trade |
@@ -54,13 +54,13 @@ ___
 | Subdomains |  Archon (Good), Archon (Law), Cooperation, Education (Community), Family, Feather, Fur, Growth, Home |
 | Favored Weapon(s) | Daggers, Bows, axes, spears |
 | Symbol | Bow and arrow |
-| Sacred Animal(s) | Stag |
+| Sacred Animal(s) | Stag and Wolf |
 | Sacred Color(s) | Brown, green |
 | Effective Mythic Rank | 7 |
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 18 (6 divine boons, 5 domains, 7 ranks) |
 
-| Shelyn | The Painter |
+| Momo | The Painter |
 | ----------- | ----------- |
 | Alignment | NG |
 | Areas of Concern | Art, beauty, love, music |
@@ -69,12 +69,12 @@ ___
 | Favored Weapon(s) | Polearms |
 | Symbol | Multicolored songbird |
 | Sacred Animal(s) | Songbird |
-| Sacred Color(s) | All |
+| Sacred Color(s) | The Rainbow |
 | Effective Mythic Rank | 7 |
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 18 (6 divine boons, 5 domains, 7 ranks) |
 
-| Cayden | The Drunken Wyrm |
+| Binks | The Drunken Wyrm |
 | ----------- | ----------- |
 | Alignment | CG |
 | Areas of Concern | Ale, bravery, freedom, wine |
@@ -88,7 +88,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 19 (6 divine boons, 5 domains, 8 ranks) |
 
-| Desna | Song of the Spheres |
+| Sera | Song of the Spheres |
 | ----------- | ----------- |
 | Alignment | CG |
 | Areas of Concern | Dreams, luck, stars, travelers |
@@ -102,7 +102,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 20 (6 divine boons, 5 domains, 9 ranks) |
 
-| Abadar | Master of the First Vault |
+| Gwyn | Master of the First Vault |
 | ----------- | ----------- |
 | Alignment | LN |
 | Areas of Concern | Cities, laws, merchants, wealth |
@@ -116,7 +116,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 19 (6 divine boons, 5 domains, 8 ranks) |
 
-| Irori | The Perfected |
+| Sin | The Perfected |
 | ----------- | ----------- |
 | Alignment | LN |
 | Areas of Concern | History, knowledge, self-perfection |
@@ -130,7 +130,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar, Additional Domains |
 | Divine Specie | 22 (8 divine boons, 5 domains, 9 ranks) |
 
-| Gozreh | She Who Guides the Winds/He Who Guides the Waves |
+| Shepard | She Who Guides the Winds/He Who Guides the Waves |
 | ----------- | ----------- |
 | Alignment | N |
 | Areas of Concern | Nature, the sea, weather |
@@ -158,7 +158,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 19 (6 divine boons, 5 domains, 8 ranks) |
 
-| Pharasma | Lady of Graves |
+| Hush | The Hollow |
 | ----------- | ----------- |
 | Alignment | N |
 | Areas of Concern | Birth, death, fate, prophecy |
@@ -172,7 +172,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 18 (6 divine boons, 5 domains, 7 ranks) |
 
-| Calistria | The Savored Sting |
+| Calam | The Savored Sting |
 | ----------- | ----------- |
 | Alignment | CN |
 | Areas of Concern | Revenge, trickery, self-expression |
@@ -186,7 +186,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 18 (6 divine boons, 5 domains, 7 ranks) |
 
-| Besmara | The Black Banshee |
+| Lucy | The Tempest |
 | ----------- | ----------- |
 | Alignment | CN |
 | Areas of Concern | Piracy, sea monsters, strife |
@@ -200,7 +200,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar |
 | Divine Specie | 18 (6 divine boons, 5 domains, 7 ranks) |
 
-| Asmodeus | The Prince of Darkness |
+| Urge | The Wyrm of Law |
 | ----------- | ----------- |
 | Alignment | LE |
 | Areas of Concern | Contracts, pride, slavery, tyranny |
@@ -214,7 +214,7 @@ ___
 | Divine Boons | Form of Awe, Pantheonic Cabal, Project Avatar, Additional Domains |
 | Divine Specie | 21 (8 divine boons, 5 domains, 8 ranks) |
 
-| Zon-Kuthon | The Midnight Lord |
+| Griffon | The Midnight Lord |
 | ----------- | ----------- |
 | Alignment | LE |
 | Areas of Concern | Darkness, envy, loss, pain |
